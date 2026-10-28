@@ -13,5 +13,5 @@ Projects:
 - **[Games](https://ai.rhyslindmark.com/games)** — Visual games for timelines, quantities, scale, and systems. [Source](https://github.com/Rhys-Lindmark/ai-games).
 - **[AI Claims](https://ai.rhyslindmark.com/claims)** — Explore reviewed book claims, evidence, and source-traceable truth scores. [Source](https://github.com/Rhys-Lindmark/ai-claims).
 - **[SF Hosting](https://ai.rhyslindmark.com/tools/sf-hosting)** — Find San Francisco venues for private dinners and group drinks by capacity, price, and booking minimum. [Source](https://github.com/Rhys-Lindmark/rhyslindmark-website/blob/main/src/pages/tools/sf-hosting.astro).
-- **[Tools](https://ai.rhyslindmark.com/tools)** — Small practical tools, including a Lean Coffee meeting app. [Source](https://github.com/Rhys-Lindmark/rhyslindmark-website/tree/main/public/tools).
+- **[Lean Coffee](https://ai.rhyslindmark.com/tools/lean-coffee)** — A shared meeting board for adding topics, voting, and timing discussions.
 - **[Day of the Singularity](https://ai.rhyslindmark.com/singularity)** — A day counter starting January 1, 2026. [Source](https://github.com/Rhys-Lindmark/singularity).
