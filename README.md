@@ -2,6 +2,7 @@ Projects:
 
 - **[AI 2026](https://www.rhyslindmark.com/posts/ai2026-pt1/)** — AI economics in three parts: [Chips](https://www.rhyslindmark.com/posts/ai2026-pt1/), [Models](https://www.rhyslindmark.com/posts/ai2026-pt2/), [Agents](https://www.rhyslindmark.com/posts/ai2026-pt3/). [Source](https://github.com/Rhys-Lindmark/rhyslindmark-website/tree/main/public/posts).
 - **[Rhysbot](https://ai.rhyslindmark.com/rhysbot)** — A small language model trained on my writing. [Source](https://github.com/Rhys-Lindmark/rhysbot).
+- **[Hermes Agent](https://github.com/Rhys-Lindmark/hermes-ops)** — My Telegram assistant, with Docker sandboxes and custom skills.
 - **[Exa](https://ai.rhyslindmark.com/exa)** — Find research & counterpoints with Exa. [Source](https://github.com/Rhys-Lindmark/rhyslindmark-website/blob/main/functions/_lib/signal-garden.js).
 - **[Jev](https://ai.rhyslindmark.com/jev)** — Check claims against source passages. [Source](https://github.com/Rhys-Lindmark/rhyslindmark-website/tree/main/public/jev).
 - **[GiveBetter](https://ai.rhyslindmark.com/givebetter)** — Compare local programs by impact per dollar. [Source](https://github.com/Rhys-Lindmark/market-for-impact).
