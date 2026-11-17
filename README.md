@@ -1,5 +1,6 @@
 Projects:
 
+- **[Coad](https://ai.rhyslindmark.com/coad)** — My software factory, with self-updates and customer support. [Source](https://github.com/Rhys-Lindmark/coad).
 - **[AI 2026](https://www.rhyslindmark.com/posts/ai2026-pt1/)** — AI economics in three parts: [Chips](https://www.rhyslindmark.com/posts/ai2026-pt1/), [Models](https://www.rhyslindmark.com/posts/ai2026-pt2/), [Agents](https://www.rhyslindmark.com/posts/ai2026-pt3/). [Source](https://github.com/Rhys-Lindmark/rhyslindmark-website/tree/main/public/posts).
 - **[Rhysbot](https://ai.rhyslindmark.com/rhysbot)** — A small language model trained on my writing. [Source](https://github.com/Rhys-Lindmark/rhysbot).
 - **[Hermes Agent](https://github.com/Rhys-Lindmark/hermes-ops)** — My Telegram assistant, with Docker sandboxes and custom skills.
